@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartTaskPro.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f15f609b0f7e36bd44f7f7c712705ae8112e6e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c05fb948a5b55e45ef54bca4b2ef5fe56bafcc7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartTaskPro.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartTaskPro.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

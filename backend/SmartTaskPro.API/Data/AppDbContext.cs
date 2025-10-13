@@ -10,7 +10,7 @@ namespace SmartTaskPro.API.Data
         {
         }
 
-        // These will become your database tables
+        //database tables
         public DbSet<User> Users { get; set; }
         public DbSet<TaskItem> Tasks { get; set; }
     }

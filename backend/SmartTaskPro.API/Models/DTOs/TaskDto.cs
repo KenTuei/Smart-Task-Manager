@@ -10,7 +10,6 @@ namespace SmartTaskPro.API.Models.DTOs
         public DateTime DueDate { get; set; }
         public int UserId { get; set; }
 
-        // Only include basic user info (no Tasks)
         public UserSimpleDto? User { get; set; }
     }
 

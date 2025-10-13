@@ -11,6 +11,6 @@ namespace SmartTaskPro.API.Models
 
         // Foreign key — each task belongs to one user
         public int UserId { get; set; }
-        public User? User { get; set; } // Navigation property
+        public User? User { get; set; } // Navigation
     }
 }

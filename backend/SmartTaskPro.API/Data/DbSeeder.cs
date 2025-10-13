@@ -1,6 +1,6 @@
 using Bogus;
 using SmartTaskPro.API.Data;
-using SmartTaskPro.API.Models; // adjust namespace if needed
+using SmartTaskPro.API.Models;
 
 public static class DbSeeder
 {
