@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTaskPro.API", "SmartTaskPro.API\SmartTaskPro.API.csproj", "{F787931C-1C03-456B-9964-E5B455BE776E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTaskPro.Tests", "SmartTaskPro.Tests\SmartTaskPro.Tests.csproj", "{DC6BAB7B-B731-457D-AC57-8FE39C108A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F787931C-1C03-456B-9964-E5B455BE776E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F787931C-1C03-456B-9964-E5B455BE776E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F787931C-1C03-456B-9964-E5B455BE776E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F787931C-1C03-456B-9964-E5B455BE776E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC6BAB7B-B731-457D-AC57-8FE39C108A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6BAB7B-B731-457D-AC57-8FE39C108A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6BAB7B-B731-457D-AC57-8FE39C108A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6BAB7B-B731-457D-AC57-8FE39C108A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
