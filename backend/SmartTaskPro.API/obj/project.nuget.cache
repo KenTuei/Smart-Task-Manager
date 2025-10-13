@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "krw5m08sb1y/Gjzb24XiY7BOjbBh6gsgyGmbs9Tw8+V+aHBaAY/5bhcG62vNnKli0L7R/Ad5b4VHQu8TgfG2QA==",
+  "dgSpecHash": "eUQwzm4ZgQ/Nvph56nAh2/FKITgOlNqTgT48fNJw8iGuH5Ya8iaULuZ5XM/BiVTwElZVyXUb21q1id0VbqIF6Q==",
   "success": true,
   "projectFilePath": "/home/ken-tuei/KEN/SmartTaskPro/backend/SmartTaskPro.API/SmartTaskPro.API.csproj",
   "expectedPackageFiles": [
+    "/home/ken-tuei/.nuget/packages/bogus/35.6.4/bogus.35.6.4.nupkg.sha512",
     "/home/ken-tuei/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/ken-tuei/.nuget/packages/microsoft.aspnetcore.openapi/8.0.20/microsoft.aspnetcore.openapi.8.0.20.nupkg.sha512",
     "/home/ken-tuei/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
